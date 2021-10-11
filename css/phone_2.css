@@ -1,0 +1,29 @@
+
+.navbar ul li a{
+    font-size: 14px;
+}
+.navbar ul li a{
+padding: 16px 6px;
+}
+.box{
+    padding: 8px;
+}
+.box img{
+    display: block;
+    width: 160px;
+    height: auto;
+    margin:auto;
+}
+
+.service-box-heading{
+    font-size: 20px;
+}
+.box p{
+    font-size: 10px;
+}
+.btn{
+    margin: 16px;
+}
+.contact-box form{
+    width: 60%;
+}

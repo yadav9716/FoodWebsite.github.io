@@ -1,0 +1,39 @@
+/* Navigation */
+.navbar ul{
+    /* flex-direction: column; */
+    font-size: 18px;
+}
+.navbar ul li a{
+    font-size: 20px;
+}
+/* Home */
+#home h1{
+    font-size: 2.6rem;
+    font-weight: 900;
+
+}
+#home p{
+    font-size: 18px;
+}
+/* Contact */
+.contact-box form{
+    width: 80%;
+}
+/* Service */
+.box img{
+    width: 320px;
+    height: auto;
+}
+.box{
+    padding: 20px;
+}
+.service-box-heading{
+    font-size: 32px;
+}
+.box p{
+    font-size: 16px;
+}
+/* Utilities */
+.h-primary{
+    font-size:2.8rem;
+}
